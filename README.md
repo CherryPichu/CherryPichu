@@ -43,7 +43,7 @@
 
 |과목명|점수|
 |---|---|
-|<font color = #blue>일상속의통계 </font>|A0|
+|<span style = "color:red">일상속의통계 </span|A0|
 |이산수학|A+|
 
 
