@@ -26,4 +26,4 @@
 
 추천 사이트
 
-https://hallym.ac.kr
+[한림대학교](https://www.hallym.ac.kr)
