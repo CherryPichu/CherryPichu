@@ -46,5 +46,5 @@
 |<span style="color:red">일상속의통계 </span>|A0|
 |이산수학|A+|
 
-![git_hub_page](20200628_132059.jpg
+![git_hub_page](20200628_132059.jpg)
 
