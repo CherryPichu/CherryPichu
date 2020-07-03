@@ -28,10 +28,10 @@
 
 [한림대학교](https://www.hallym.ac.kr)
 
-<a herf=www.hallym.ac.kr>한림대학교 </a>
+<a herf=https://www.hallym.ac.kr>한림대학교 </a>
 
 
-[hallym]:www.hallym.ac.kr
+[hallym]:https://www.hallym.ac.kr
 
 
 [한림][hallym]
