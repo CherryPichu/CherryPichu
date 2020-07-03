@@ -48,3 +48,5 @@
 
 ![git_hub_page](20200628_132055.jpg)
 
+<img src=20200628_132055.jpg width=100 height=100>
+
