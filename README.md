@@ -1,13 +1,18 @@
-<img src = C:\Users\uskaw\Desktop\프로필.png width=200 height=200>
+<img src = 프로필.png width=200 height=200>
 
 ## 저는 어떤 사람일까요? 
 
 **한림대학교 소프트웨어융합대학 2학년 재학중 중** 입니다.
 
 - 존경 인물 : [**유튜버: 김포프**](https://www.youtube.com/user/KimPopeTV)
+
 - 생일 : **1999년 7월 2일**
+
 - 취미 : **사람들과 만나고 술잔 나누고 이야하는 것, 여행하고 사진찍기**
+
 - 연락처 : uskawjdu@gmail.com
+
+  
 
 > **"여러명의 뛰어난 개발자보다, 잘 정리된 문서가 더 낫다."**
 
@@ -17,7 +22,9 @@
 
 ## 경험
 
-- 라즈베리파이를 이용한 arm 환경의 **서버를 운영** 중에 있습니다. 현재는 wordpress 기술 블로그를 운영 중 입니다. <a href="http://uskawjdu.iptime.org/"><img src="일러스트.png" alt="일러스트" width=35 height=35 /></a>
+- 라즈베리파이를 이용한 arm 환경의 **서버를 운영** 중에 있습니다. 
+
+  - 현재는 wordpress 기술 블로그를 운영 중 입니다. <a href="http://uskawjdu.iptime.org/"><img src="일러스트.png" alt="일러스트" width=35 height=35 /></a>
 
   -   하드웨어 온도 자동 업데이트 [게시글](http://uskawjdu.iptime.org/2021/10/24/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B44-%EC%98%A8%EB%8F%84/)
   -   리눅스에 관련 에러 문제에 대한 보고서
@@ -38,7 +45,7 @@
 
 -----
 
-### 사용 도구
+## 사용 도구
 
 #### Backend
 
@@ -53,7 +60,7 @@
 
 ----
 
-### 마무리.
+## 마무리.
 
 > 맥주와 같이 마실 상대가 있다면 그것으로 행복하다.
 
