@@ -17,14 +17,14 @@
 
 ## 경험
 
-- 라즈베리파이를 이용한 arm 환경의 **서버를 운영** 중에 있습니다. 현재는 wordpress 기술 블로그를 운영 중 입니다. <a href="http://uskawjdu.iptime.org/"><img src="C:\GIT\CherryPichu\일러스트.png" alt="일러스트" style="zoom:4%;" /> </a>
+- 라즈베리파이를 이용한 arm 환경의 **서버를 운영** 중에 있습니다. 현재는 wordpress 기술 블로그를 운영 중 입니다. <a href="http://uskawjdu.iptime.org/"><img src="일러스트.png" alt="일러스트" width=35 height=35 /></a>
 
   -   하드웨어 온도 자동 업데이트 [게시글](http://uskawjdu.iptime.org/2021/10/24/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B44-%EC%98%A8%EB%8F%84/)
   -   리눅스에 관련 에러 문제에 대한 보고서
 
 - **메이커스페이스 근로** 경험이 있습니다.  
 
-  - 근로기간동안 Fusion360 을 학습하고 모델링하는 경험과 다양한 굿즈 제작에 필요한 장비를 배웠습니다. <a href="https://www.instagram.com/namjeong.h/"><img src="./인스타그램 이모티콘.png" alt=인스타그램 style=zoom:4% ></a>
+  - 근로기간동안 Fusion360 을 학습하고 모델링하는 경험과 다양한 굿즈 제작에 필요한 장비를 배웠습니다. <a href="https://www.instagram.com/namjeong.h/"><img src="./인스타그램 이모티콘.png" alt=인스타그램 width=35 height=35></a>
 
   - 깃에 올린 아두이노 ![프로젝트]() 입니다.
 
