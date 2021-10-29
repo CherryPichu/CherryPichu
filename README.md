@@ -24,10 +24,7 @@
 
 - 라즈베리파이를 이용한 arm 환경의 **서버를 운영** 중에 있습니다. 
 
-  - 현재는 wordpress 기술 블로그를 운영 중 입니다. <a style="{color: blue; background: white}
-                :visited {color: green}
-                :hover {background: yellow}
-                :visited:hover {color: purple}" href="http://uskawjdu.iptime.org/"><img src="일러스트.png" alt="일러스트" width=30 height=30 />fdsfsdf</a>
+  - 현재는 wordpress 기술 블로그를 운영 중 입니다. <a taget="_blank" href="http://uskawjdu.iptime.org/"><img src="일러스트.png" alt="일러스트" width=30 height=30 /></a>
   - 하드웨어 온도 자동 업데이트 [게시글](http://uskawjdu.iptime.org/2021/10/24/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B44-%EC%98%A8%EB%8F%84/)
   - 리눅스에 관련 에러 문제에 대한 <a href="http://uskawjdu.iptime.org/category/%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B4%80%EB%A0%A8-%EA%B8%B0%EB%A1%9D/">보고서</a>
 
@@ -43,7 +40,7 @@
 
   
 
-- **<a href="https://github.com/CherryPichu/hallym_crawling" target="_blank" title="git저장소">학교 수강신청 데이터 분석</a>**과  **SW 에세이 대회 수상**
+- <a href="https://github.com/CherryPichu/hallym_crawling" target="_blank" title="git저장소">학교 수강신청 데이터 분석</a>**과  **SW 에세이 대회 수상
 
   학교 수강신청 데이터를 분석하여 그것을 바탕으로 쓰인 SW 에세이 대회에서 상을 받았습니다. 
 
@@ -56,6 +53,7 @@
 - PHP / wordpress
 - mariadb (SQL 문법)
 - docker
+- nodejs
 
 #### ETC..
 
