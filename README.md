@@ -4,7 +4,7 @@
 
 **한림대학교 소프트웨어융합대학 2학년 재학 중** 입니다.
 
-- 존경 인물 : [**유튜버: 김포프**](https://www.youtube.com/user/KimPopeTV)
+- 존경 인물 : [**(유튜버) 김포프**](https://www.youtube.com/user/KimPopeTV)
 
 - 생일 : 1999년 7월 2일
 
