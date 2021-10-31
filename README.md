@@ -2,7 +2,7 @@
 
 ## 허남정 (23) 
 
-**한림대학교 소프트웨어융합대학 2학년 재학중 중** 입니다.
+**한림대학교 소프트웨어융합대학 2학년 재학 중** 입니다.
 
 - 존경 인물 : [**유튜버: 김포프**](https://www.youtube.com/user/KimPopeTV)
 
@@ -40,9 +40,9 @@
 
   
 
-- <a href="https://github.com/CherryPichu/hallym_crawling" target="_blank" title="git저장소">학교 수강신청 데이터 분석</a>**과  **SW 에세이 대회 수상
+- <a href="https://github.com/CherryPichu/hallym_crawling" target="_blank" title="git저장소">학교 수강신청 데이터 분석</a>과 **SW 에세이 대회 수상**
 
-  학교 수강신청 데이터를 분석하여 그것을 바탕으로 쓰인 SW 에세이 대회에서 상을 받았습니다. 
+  학교 수강신청 데이터를 분석하여 그것을 바탕으로 쓰인 글이 한림 SW 에세이 대회에서 상을 받았습니다. 
 
   
 
