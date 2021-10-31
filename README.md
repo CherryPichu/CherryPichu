@@ -1,4 +1,4 @@
-<img src = 프로필.png width=200 height=200>
+<img src = 허남정.png width=25%>
 
 ## 허남정 (23) 
 
