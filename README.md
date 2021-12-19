@@ -40,9 +40,14 @@
 
   
 
-- <a href="https://github.com/CherryPichu/hallym_crawling" target="_blank" title="git저장소">학교 수강신청 데이터 분석</a>과 **SW 에세이 대회 수상**
-
-  학교 수강신청 데이터를 분석하여 그것을 바탕으로 쓰인 글이 한림 SW 에세이 대회에서 상을 받았습니다. 
+  #### 교내 대회
+  - <a href="https://github.com/CherryPichu/hallym_crawling" target="_blank" title="git저장소">학교 수강신청 데이터 분석</a>과 **SW 에세이 대회 수상**
+  - 파이썬 퀴즈 온 더 한림 (10만원)
+  - R 퀴즈 온 더 한림 (10만원)
+  - GitHub 이력서 콘테스트 해커톤 (5만원)
+  - 2021 SW Coding Festival (30만원)
+  
+  #### 교외 대회
 
   
 
