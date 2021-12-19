@@ -39,15 +39,15 @@
   - 깃에 올린 아두이노 <a href="https://github.com/CherryPichu/Arduino_Table_Clock">프로젝트</a> 입니다.
 
   
-
-  #### 교내 대회
-  - <a href="https://github.com/CherryPichu/hallym_crawling" target="_blank" title="git저장소">학교 수강신청 데이터 분석</a>과 **SW 에세이 대회 수상**
-  - 파이썬 퀴즈 온 더 한림 (10만원)
-  - R 퀴즈 온 더 한림 (10만원)
-  - GitHub 이력서 콘테스트 해커톤 (5만원)
-  - 2021 SW Coding Festival (30만원)
+## 수상 경력
+#### 교내 대회
+ - <a href="https://github.com/CherryPichu/hallym_crawling" target="_blank" title="git저장소">학교 수강신청 데이터 분석</a>과 **SW 에세이 대회 수상**
+ - 파이썬 퀴즈 온 더 한림 (10만원)
+ - R 퀴즈 온 더 한림 (10만원)
+ - GitHub 이력서 콘테스트 해커톤 (5만원)
+ - 2021 SW Coding Festival (30만원)
   
-  #### 교외 대회
+#### 교외 대회
 
   
 
