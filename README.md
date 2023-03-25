@@ -2,7 +2,7 @@
 
 ## 허남정 (23) 
 
-**한림대학교 소프트웨어융합대학 2학년 재학 중** 입니다.
+**한림대학교 소프트웨어융합대학 3학년 재학 중** 입니다.
 
 - 존경 인물 : [**(유튜버) 김포프**](https://www.youtube.com/user/KimPopeTV)
 
@@ -39,12 +39,18 @@
   - 깃에 올린 아두이노 <a href="https://github.com/CherryPichu/Arduino_Table_Clock">프로젝트</a> 입니다.
 
   
-
-- <a href="https://github.com/CherryPichu/hallym_crawling" target="_blank" title="git저장소">학교 수강신청 데이터 분석</a>과 **SW 에세이 대회 수상**
-
-  학교 수강신청 데이터를 분석하여 그것을 바탕으로 쓰인 글이 한림 SW 에세이 대회에서 상을 받았습니다. 
-
+## 수상 경력
+#### 교내 대회
+ - <a href="https://github.com/CherryPichu/hallym_crawling" target="_blank" title="git저장소">학교 수강신청 데이터 분석</a>과 **SW 에세이 대회 수상**
+ - 파이썬 퀴즈 온 더 한림 (10만원)
+ - R 퀴즈 온 더 한림 (10만원)
+ - GitHub 이력서 콘테스트 해커톤 (5만원)
+ - 2021 SW Coding Festival (30만원)
   
+#### 교외 대회
+
+#### 장학금 수상
+ -  국가우수장학금(이공계) 2년 전액 장학금 과학기술정보통신부
 
 ## 사용 도구
 
@@ -66,7 +72,7 @@
 
 ## 마무리.
 
-> **맥주와 같이 마실 상대가 있다면 그것으로 행복하다.**
+> **맥주를 같이 마실 상대가 있다면 그것 행복하다.**
 
 사람들과 이야기를 나누는 것을 굉장히 좋아합니다.  
 
