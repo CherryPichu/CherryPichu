@@ -25,8 +25,10 @@
   
   
 #### <b>📞 contact 📞 </b> 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) jazzheo#0594
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) jazzheo#0594  
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) uskawjdu@gmail.com
 
 
-
+#### <b>🎮 playing game 🎮 </b> 
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)  
 
