@@ -23,7 +23,7 @@
 - wordpress 블로그  
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) [바로가기](http://namjung.blog/)
  
-- 인스타그램 (메이커 스페이스)
+- 인스타그램 (메이커 스페이스)  
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [바로가기](https://www.instagram.com/namjeong.h/)
   
 #### <b>📞 contact 📞 </b> 
