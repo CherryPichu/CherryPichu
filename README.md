@@ -15,10 +15,10 @@
 
 #### <b>🏸 portfolio 🏸 </b> 
 
-- Notion 포토폴리오
+- Notion 포토폴리오  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) [바로가기](https://clammy-market-92c.notion.site/HEONAMJUNG-932656fdeeab487faf82c5ab62d575ff)
 
-- wordpress 블로그
+- wordpress 블로그  
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) [바로가기](http://http://namjung.blog/)
 
 #### <b>📞 contact 📞 </b> 
