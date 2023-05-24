@@ -34,3 +34,5 @@
 #### <b>🎮 playing game 🎮 </b> 
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)  
 
+#### <b>💯 자랑할 것 💯 </b>
+- 국가우수장학금(이공계) 과학기술정보통신부 장관 장학금 (2022년)
