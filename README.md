@@ -16,14 +16,10 @@
   
 #### <b>🏸 portfolio 🏸 </b> 
 
-- Notion 포토폴리오  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) [바로가기](https://clammy-market-92c.notion.site/HEONAMJUNG-932656fdeeab487faf82c5ab62d575ff)
-  
-  
-- wordpress 블로그  
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) [바로가기](http://namjung.blog/)
- 
-- 인스타그램 (메이커 스페이스)  
+- 링크드인 ( 직무 경험 공유 )
+ ![LinkedIn])https://www.linkedin.com/in/%EB%82%A8%EC%A0%95-%ED%97%88-aaa144293/) [바로가기](https://www.instagram.com/namjeong.h/)
+
+- 인스타그램 ( 일상 경험 공유 )  
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [바로가기](https://www.instagram.com/namjeong.h/)
   
 #### <b>📞 contact 📞 </b> 
@@ -36,3 +32,11 @@
 
 #### <b>💯 자랑할 것 💯 </b>
 - 국가우수장학금(이공계) 과학기술정보통신부 장관 장학금 (2022년)
+
+#### 운영 안하는 것..
+- Notion 포토폴리오  
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) [바로가기](https://clammy-market-92c.notion.site/HEONAMJUNG-932656fdeeab487faf82c5ab62d575ff)
+  
+
+- wordpress 블로그  
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) [바로가기](http://namjung.blog/)
