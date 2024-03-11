@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=허남정's%20GitHub&fontSize=50&fontColor=black)
 
 
-<h2 align="center"> 한림대학교 학생 허남정 (HEONAMJUNG) 입니다 👋</h2>
+<h2 align="center"> 한림대학교 졸업생 허남정 (HEONAMJUNG) 입니다 👋</h2>
 
 
 #### <b>📚 interesting  📚 </b>  
