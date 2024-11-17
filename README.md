@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=허남정's%20GitHub&fontSize=50&fontColor=black)
 
 
-<h2 align="center"> 세종대 정보보호학과 재학생 허남정 (HEONAMJUNG) 입니다 👋 </h2>
+<h2 align="center"> 세종대 정보보호학과 석사과정 허남정 (HEONAMJUNG) 입니다 👋 </h2>
 
 
 #### <b>📚 interesting  📚 </b>  
