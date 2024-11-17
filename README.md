@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=허남정's%20GitHub&fontSize=50&fontColor=black)
 
 
-<h2 align="center"> 한림대학교 졸업생 허남정 (HEONAMJUNG) 입니다 👋</h2>
+<h2 align="center"> 세종대 정보보호학과 재학생 허남정 (HEONAMJUNG) 입니다 👋 </h2>
 
 
 #### <b>📚 interesting  📚 </b>  
@@ -32,6 +32,7 @@
 
 #### <b>💯 자랑할 것 💯 </b>
 - 국가우수장학금(이공계) 과학기술정보통신부 장관 장학금 (2022년)
+- 한국마이크로소프트 대표 표창 (2024년)
 
 #### 운영 안하는 것..
 - Notion 포토폴리오  
