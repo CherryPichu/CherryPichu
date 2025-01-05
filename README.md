@@ -28,14 +28,15 @@
 
 
 #### <b>🎮 playing game 🎮 </b> 
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)  
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)  특징 : 포켓몬 덕후
+
 
 #### <b>💯 자랑할 것 💯 </b>
+- 그외 교내 수상 5개 (2021년 4개, 2020년 1개)
 - 국가우수장학금(이공계) 과학기술정보통신부 장관 장학금 (2022년)
 - 한국마이크로소프트 대표 표창 (2024년)
-- 그외 교내 수상 5개 (2021년 4개, 2020년 1개)
 
-#### 운영 안하는 것..
+#### 운영 안하는 것.. (사망)
 - Notion 포토폴리오  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) [바로가기](https://clammy-market-92c.notion.site/HEONAMJUNG-932656fdeeab487faf82c5ab62d575ff)  
 
